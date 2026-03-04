@@ -343,7 +343,7 @@ function App() {
               rel="noreferrer"
               className="made-by-coda"
             >
-              Made by Coda
+              Made by shimoda
             </a>
           </div>
         </aside>
